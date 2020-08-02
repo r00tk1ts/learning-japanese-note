@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "74f18945aa470448",
+    "type": "split",
+    "children": [
+      {
+        "id": "08cc2abf68c5b9e7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "note/标日初级上/第一单元/第四课 部屋に机といすがあります.md",
+            "mode": "source"
+          }
+        },
+        "group": "d926d4a2e8e7dc86"
+      },
+      {
+        "id": "0db0262cb4ba8e6b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "note/标日初级上/第一单元/第四课 部屋に机といすがあります.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d926d4a2e8e7dc86"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b0a64f06aba845c",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d6ba4cae4fb69b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224eae1f658a8efd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae975d8320c975f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea0233ba25a8ad90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3a8005cf5ed5c41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3bec9496a4710d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "note/标日初级上/第一单元/第四课 部屋に机といすがあります.md",
+    "note/标日初级上/第一单元/第一课 李さんは中国人です.md",
+    "note/标日初级上/第一单元/第三课 ここはデパートです.md",
+    "note/标日初级上/第一单元/第二课 これは本です.md",
+    "note/标日初级上/第一单元/Untitled.md"
+  ]
+}
