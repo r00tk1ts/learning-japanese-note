@@ -10,5 +10,6 @@
     "Markdown format importer": true,
     "Word count": true,
     "Custom CSS": true
-  }
+  },
+  "fileSortOrder": "alphabetical"
 }

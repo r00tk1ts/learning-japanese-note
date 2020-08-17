@@ -10,23 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "note/标日初级上/第一单元/第四课 部屋に机といすがあります.md",
+            "file": "note/标日初级上/第一单元/一单元词表.md",
             "mode": "source"
           }
-        },
-        "group": "d926d4a2e8e7dc86"
-      },
-      {
-        "id": "0db0262cb4ba8e6b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "note/标日初级上/第一单元/第四课 部屋に机といすがあります.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d926d4a2e8e7dc86"
+        }
       }
     ],
     "direction": "vertical"
@@ -59,7 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 394
   },
   "right": {
     "id": "ea0233ba25a8ad90",
@@ -85,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "note/标日初级上/第一单元/一单元词表.md",
     "note/标日初级上/第一单元/第四课 部屋に机といすがあります.md",
-    "note/标日初级上/第一单元/第一课 李さんは中国人です.md",
     "note/标日初级上/第一单元/第三课 ここはデパートです.md",
-    "note/标日初级上/第一单元/第二课 これは本です.md",
-    "note/标日初级上/第一单元/Untitled.md"
+    "note/标日初级上/第一单元/第一课 李さんは中国人です.md",
+    "note/标日初级上/第一单元/第二课 これは本です.md"
   ]
 }
